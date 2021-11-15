@@ -1,5 +1,5 @@
 FROM alpine:latest
-LABEL maintainer "Steven Iveson <steve@iveson.eu>"
+LABEL maintainer "Andre van Schalkwyk <andrevs@gmail.com> original from: Steven Iveson <steve@iveson.eu>"
 LABEL source "https://github.com/sjiveson/nfs-server-alpine"
 LABEL branch "master"
 COPY Dockerfile README.md /
